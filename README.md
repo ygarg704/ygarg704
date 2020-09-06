@@ -1,3 +1,6 @@
+
+![Yash's Github Stats](https://github-readme-stats.vercel.app/api?username=ygarg704&show_icons=true&hide_border=true)
+
 ### Hi there 👋
 
 
@@ -12,5 +15,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Yash's Github Stats](https://github-readme-stats.vercel.app/api?username=ygarg704&show_icons=true&hide_border=true)
