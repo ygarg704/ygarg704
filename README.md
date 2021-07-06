@@ -1,4 +1,4 @@
-<h3 align="center">Hello there! <br> I an Yash Garg 👋</h3>
+<h3 align="center">Hello there! <br> I am Yash Garg 👋</h3>
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/ygarg704/" title="LinkedIn Profile"><img width="22" src="https://github.com/adicadi/adicadi/blob/master/linkedin.svg"> LinkedIn</a></code>
@@ -21,5 +21,4 @@
     <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=ygarg704&show_icons=true&theme=react">
     <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygarg704&hide=css,Jupyter Notebook&layout=compact&theme=react">
 </p>
-<br>
-<p align="right">![](https://visitor-badge.laobi.icu/badge?page_id=ygarg704.ygarg704)<br>
+<br><p align="right">![](https://visitor-badge.laobi.icu/badge?page_id=ygarg704.ygarg704)<br>
