@@ -1,4 +1,4 @@
-<h3 align="center">Hello there! <br> I'm Yash Garg 👋</h3>
+<h3 align="center">Hello there! <br> I an Yash Garg 👋</h3>
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/ygarg704/" title="LinkedIn Profile"><img width="22" src="https://github.com/adicadi/adicadi/blob/master/linkedin.svg"> LinkedIn</a></code>
