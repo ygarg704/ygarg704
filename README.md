@@ -20,8 +20,6 @@
 <p align=center>
     <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=ygarg704&show_icons=true&theme=react">
     <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygarg704&hide=css,Jupyter Notebook&layout=compact&theme=react">
-</p>
-<p align = center>
-    <img align="right" height="350" width="400" src="![image](https://user-images.githubusercontent.com/52577659/134475461-e3b6db25-5e16-4816-ac42-a849b8205afb.png)" />
+  <img src="https://komarev.com/ghpvc/?username=ygarg704&label=Profile%20views&color=0e75b6&style=flat" alt="Yash Garg" />
 </p>
 <br><p align="right">![](https://visitor-badge.laobi.icu/badge?page_id=ygarg704.ygarg704)<br>
