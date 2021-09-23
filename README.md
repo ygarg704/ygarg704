@@ -1,8 +1,8 @@
 <h3 align="center">Hello there! 👋</h3>
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/ygarg704/" title="LinkedIn Profile"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Yash Garg" height="50" width="50" />LinkedIn</a></code>
-  <code><a href="https://www.instagram.com/mr.yashgarg/" title="Instagram Profile"><img width="22" src="https://github.com/adicadi/adicadi/blob/master/Instagram.svg"> Instagram</a></code>
+    <a href="https://www.linkedin.com/in/ygarg704/" title="LinkedIn Profile"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Yash Garg" height="50" width="50" /></a></code>
+  <code><a href="https://www.instagram.com/mr.yashgarg/" title="Instagram Profile"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="wth_ishiii" height="50" width="50" /></a></code>
 </h5>
 <br>
 <p align="center">
