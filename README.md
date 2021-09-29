@@ -1,5 +1,5 @@
-<p>
-  <img align = middle src = "https://c.tenor.com/DSG9ZID25nsAAAAC/hello-there-general-kenobi.gif">
+<p align="center">
+  <img src = "https://c.tenor.com/WuOwfnsLcfYAAAAC/star-wars-obi-wan-kenobi.gif">
 </p>
 
 <h5 align="center">
