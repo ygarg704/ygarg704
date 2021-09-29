@@ -1,10 +1,15 @@
-<h3 align="center">Hello there! 👋</h3>
+<p>
+  <img align = center src = "https://c.tenor.com/DSG9ZID25nsAAAAC/hello-there-general-kenobi.gif">
+</p>
+
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/ygarg704/" title="LinkedIn Profile"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Yash Garg" height="50" width="50" /></a></code>
   <code><a href="https://www.instagram.com/mr.yashgarg/" title="Instagram Profile"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="mr.yashgarg" height="50" width="50" /></a></code>
 </h5>
+
 <br>
+
 <p align="center">
   📚 I’m currently exploring Data Science and Android Development.
   <br>
@@ -21,4 +26,7 @@
     <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=ygarg704&show_icons=true&theme=react">
     <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygarg704&hide=css,Jupyter Notebook&layout=compact&theme=react">
 </p>
-<br><p align="right"><img src="https://komarev.com/ghpvc/?username=ygarg704&label=Profile%20views&color=0e75b6&style=flat" alt="Yash Garg" /><br>
+
+<br>
+
+<p align="right"><img src="https://komarev.com/ghpvc/?username=ygarg704&label=Profile%20views&color=0e75b6&style=flat" alt="Yash Garg" /><br>
