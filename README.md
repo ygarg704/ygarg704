@@ -1,5 +1,5 @@
 <p>
-  <img align = centre src = "https://c.tenor.com/DSG9ZID25nsAAAAC/hello-there-general-kenobi.gif">
+  <img align = middle src = "https://c.tenor.com/DSG9ZID25nsAAAAC/hello-there-general-kenobi.gif">
 </p>
 
 <h5 align="center">
