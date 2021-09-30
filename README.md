@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  📚 I’m currently exploring Data Science and Android Development.
+  📚 I’m currently exploring Cloud Computing.
   <br>
   💻 I love implementing projects with Machine Learning and Flutter.
   <br>
